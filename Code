@@ -1,0 +1,66 @@
+dog_list = ["Labrador", "Beagle", "Poodle", "French Bulldog", "German Shepherd", "Golden Retriever", "Husky", "Dachshund", "Chihuahua", "Mastiff", "Corgi", "Shih Tzu"]
+
+class Animilia:
+    def __init__(self):
+        self.attributeAnimal = 
+class Cordata(Animilia):
+    def __init__(self):
+        self.AttributeCordata =
+class Mammalia(Cordata):
+    def __init__(self):
+        self.AttributeMammalia =
+class Carnivora(Mammalia):
+    def __init__(self):
+        self.AttribteCarnivora =
+class Canidae(Carnivora):
+    def __init_(self):
+        self.AttributeCanidae =
+class Canis(Canidae):
+    def __init__(self):
+        self.AttributeCanis =
+class lupus(Canis):
+    def __init__(self):
+        self.Attributelupus =
+class familiaris(lupus):
+    def __init__(self):
+        self.Attributefamiliaris =
+class Labrador(familiaris):
+    def __init__(self):
+        self.AttributeLabrador =
+class Beagle(familiaris):
+    def __init__(self):
+        self.AttributeBeagle =
+class Poodle(familiaris):
+    def __init__(self):
+        self.AttributePoodle =
+class French_Bulldog(familiaris)
+    def __init__(self):
+        self.AttributeFrench_Bulldog =
+class German_Shepherd(familiaris):
+    def __init__(self):
+        self.AttributeGerman_Shepard =
+class Golden_Retriever(familiaris):
+    def __init__(self):
+        self.AttributeGolden_Retriever =
+class Husky(familiaris):
+    def __init__(self):
+        self.AttributeHusky =
+class Dachshund(familiaris):
+    def __init__(self):
+        self.AttributeDachshund =
+class Chihuahua(familiaris):
+    def __init__(self):
+        self.AttributeChihuahua =
+class Mastiff(familiaris):
+    def __init__(self):
+        self.AttributeMastiff =
+class Corgi(familiaris):
+    def __init__(self):
+        self.AttributeCorgi =
+class Shih_Tzu(familiaris):
+    def __init__(self):
+        self.AttributeShih_Tzu = 
+        
+
+
+
